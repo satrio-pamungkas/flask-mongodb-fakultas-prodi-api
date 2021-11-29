@@ -14,7 +14,7 @@ MongoDB = sebagai database
 ### **Tata Cara Menjalankan**
 Silakan *clone* atau unduh repositori berikut, dapat melalui cara berikut :
 ```bash
-$ git clone 
+$ git clone https://github.com/satrio-pamungkas/flask-mongodb-fakultas-prodi-api
 ```
 Setelah itu, dalam *root* folder buat *virtual environment* untuk memberi *scope* dari *library-library* yang digunakan. Kemudian aktifkan *virtual environment* tersebut :
 ```bash
